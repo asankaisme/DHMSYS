@@ -11,6 +11,6 @@
     @extends('template.navbar')
     @extends('template.sidebar')
     @yeild('content')
-   @extends('template.footer') 
+    @extends('template.footer') 
 </body>
 </html>
